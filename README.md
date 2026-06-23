@@ -3,6 +3,8 @@ SinFree is a free, open-source DLL extension for Counter-Strike 2 that provides 
 Default key is DEL to open the Menu
 End Terminates the Menu
 
+Join the discord for Extra Support and More Resources! - https://discord.gg/ve2YhZphnw
+
 ## Features
 **Free version includes:**
 
