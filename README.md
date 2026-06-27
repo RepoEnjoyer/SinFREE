@@ -1,4 +1,4 @@
-SinFree is a free, open-source DLL extension for Counter-Strike 2 that provides visual enhancements and performance monitoring for offline practice and private server use. This is the free version of the full Sin Menu – designed for players who want to explore basic features with heavily minimalized functionality and settings before committing to the complete package which is heavily improved.
+SinFree is a free, open-source DLL extension for Counter-Strike 2 that provides visual enhancements and performance monitoring for offline practice and private server use. This is the free version of the full Sin Menu designed for players who want to explore basic features with heavily minimalized functionality and settings before committing to the complete package which is heavily improved.
 
 Default key is DEL to open the Menu
 End Terminates the Menu
